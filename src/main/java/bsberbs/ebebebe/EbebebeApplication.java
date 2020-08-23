@@ -27,4 +27,10 @@ public class EbebebeApplication {
 public void mert() {
     for number 45
         }
+
 21.1
+
+public void mert() {
+        for 10
+        }
+
