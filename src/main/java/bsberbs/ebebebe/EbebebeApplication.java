@@ -34,7 +34,10 @@ public void mert() {
         for 10
         }
 
+
 public void mert() {
         for 23
         }
 22
+23
+
