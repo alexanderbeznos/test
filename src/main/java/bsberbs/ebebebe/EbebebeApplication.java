@@ -12,17 +12,4 @@ public class EbebebeApplication {
 
 }
 
-1
-2
-3
 
-10
-11.1
-12
-13
-20
-21
-22
-23
-24
-25
