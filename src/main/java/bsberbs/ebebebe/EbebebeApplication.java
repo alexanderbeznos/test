@@ -46,5 +46,4 @@ public void mert() {
 public void mert() {
         veeerrrrr
         }
-40
 
